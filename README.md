@@ -21,7 +21,7 @@ Challenge 07: GoFinances Web
 </p>
 
 <p align="center">
-  <img alt="gif" src="./gif/gif">
+  <img alt="gif" src="./gif.gif">
 </p>
 
 <p align="center">
